@@ -2,6 +2,10 @@ Spam Message Classifier
 ===
 This project uses a Naive Bayes classifier to classify SMS messages as spam or not.
 
+Description
+====
+This project implements a spam message classifier using the Naive Bayes algorithm. It analyzes a dataset containing SMS messages labeled as spam or not spam and trains a classifier to predict whether a new message is spam or not.
+
 Data Description
 ===
 The dataset used for analysis contains SMS messages labeled as spam or not spam.
